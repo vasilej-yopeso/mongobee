@@ -10,7 +10,7 @@
 
   <groupId>com.github.mongobee</groupId>
   <artifactId>mongobee</artifactId>
-  <version>16</version>
+  <version>17-SNAPSHOT</version>
 
   <licenses>
     <license>
